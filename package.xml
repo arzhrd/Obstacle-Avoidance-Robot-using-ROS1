@@ -1,0 +1,12 @@
+<package format="2">
+  <name>obstacle_avoidance</name>
+  <version>0.0.1</version>
+  <description>Simple obstacle avoidance for TurtleBot3</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+</package>
